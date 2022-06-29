@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode/
+train_model/yolo_torch/darknet53.conv.74
+train_model/yolo_torch/yolov3-custom.cfg
+train_model/yolo_torch/yolov3-tiny.weights
+train_model/yolo_torch/yolov3.weights
