@@ -1,0 +1,679 @@
+		<tr>
+			<td bgcolor="#fffafa"><font color="black">Белоснежный</font></td>
+			<td bgcolor="#fffafa"><font color="black">Snow</font></td>
+			<td bgcolor="#fffafa">
+			<p align="center"><font color="black">FFFAFA</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f8f8ff"><font color="black">Призрачно-белый</font></td>
+			<td bgcolor="#f8f8ff"><font color="black">Ghostwhite</font></td>
+			<td bgcolor="#f8f8ff">
+			<p align="center"><font color="black">F8F8FF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#faebd7"><font color="black">Белый-антик</font></td>
+			<td bgcolor="#faebd7"><font color="black">Antique White</font></td>
+			<td bgcolor="#faebd7">
+			<p align="center"><font color="black">FAEBD7</font></p>
+			</td>
+		</tr><tr>
+		<tr>
+			<td bgcolor="#fffbf0"><font color="black">Кремовый</font></td>
+			<td bgcolor="#fffbf0"><font color="black">Cream</font></td>
+			<td bgcolor="#fffbf0">
+			<p align="center"><font color="black">FFFBF0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffdab9"><font color="black">Персиковый</font></td>
+			<td bgcolor="#ffdab9"><font color="black">Peachpuff</font></td>
+			<td bgcolor="#ffdab9">
+			<p align="center"><font color="black">FFDAB9</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffdead"><font color="black">Белый-навахо</font></td>
+			<td bgcolor="#ffdead"><font color="black">Navajo White</font></td>
+			<td bgcolor="#ffdead">
+			<p align="center"><font color="black">FFDEAD</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fff8dc"><font color="black">Шелковый оттенок</font></td>
+			<td bgcolor="#fff8dc"><font color="black">Cornsilk</font></td>
+			<td bgcolor="#fff8dc">
+			<p align="center"><font color="black">FFF8DC</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fffff0"><font color="black">Слоновая кость</font></td>
+			<td bgcolor="#fffff0"><font color="black">Ivory</font></td>
+			<td bgcolor="#fffff0">
+			<p align="center"><font color="black">FFFFF0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fffacd"><font color="black">Лимонный</font></td>
+			<td bgcolor="#fffacd"><font color="black">Lemon Chiffon</font></td>
+			<td bgcolor="#fffacd">
+			<p align="center"><font color="black">FFFACD</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fff5ee"><font color="black">Морская раковина</font></td>
+			<td bgcolor="#fff5ee"><font color="black">Seashell</font></td>
+			<td bgcolor="#fff5ee">
+			<p align="center"><font color="black">FFF5EE</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f0fff0"><font color="black">Медовый</font></td>
+			<td bgcolor="#f0fff0"><font color="black">Honeydew</font></td>
+			<td bgcolor="#f0fff0">
+			<p align="center"><font color="black">F0FFF0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f0ffff"><font color="black">Лазурный</font></td>
+			<td bgcolor="#f0ffff"><font color="black">Azure</font></td>
+			<td bgcolor="#f0ffff">
+			<p align="center"><font color="black">F0FFFF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#e6e6fa"><font color="black">Бледно-лиловый</font></td>
+			<td bgcolor="#e6e6fa"><font color="black">Lavender</font></td>
+			<td bgcolor="#e6e6fa">
+			<p align="center"><font color="black">E6E6FA</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fff0f5"><font color="black">Голубой с красным отливом</font></td>
+			<td bgcolor="#fff0f5"><font color="black">Lavender Blush</font></td>
+			<td bgcolor="#fff0f5">
+			<p align="center"><font color="black">FFF0F5</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffe4e1"><font color="black">Тускло-розовый</font></td>
+			<td bgcolor="#ffe4e1"><font color="black">Misty Rose</font></td>
+			<td bgcolor="#ffe4e1">
+			<p align="center"><font color="black">FFE4E1</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff"><font color="black">Белый</font></td>
+			<td bgcolor="#ffffff"><font color="black">White (*)</font></td>
+			<td bgcolor="#ffffff">
+			<p align="center"><font color="black">FFFFFF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#000000"><font color="white">Черный</font></td>
+			<td bgcolor="#000000"><font color="white">Black (*)</font></td>
+			<td bgcolor="#000000">
+			<p align="center"><font color="white">000000</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#696969"><font color="white">Тускло-серый</font></td>
+			<td bgcolor="#696969"><font color="white">Dim Gray</font></td>
+			<td bgcolor="#696969">
+			<p align="center"><font color="white">696969</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#708090"><font color="white">Синевато-серый</font></td>
+			<td bgcolor="#708090"><font color="white">Slate Gray</font></td>
+			<td bgcolor="#708090">
+			<p align="center"><font color="white">708090</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#778899"><font color="white">Грифельно-серый</font></td>
+			<td bgcolor="#778899"><font color="white">Light Slate Gray</font></td>
+			<td bgcolor="#778899">
+			<p align="center"><font color="white">778899</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#bebebe"><font color="black">Серый</font></td>
+			<td bgcolor="#bebebe"><font color="black">Gray</font></td>
+			<td bgcolor="#bebebe">
+			<p align="center"><font color="black">BEBEBE</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#c0c0c0"><font color="black">Светло-серый</font></td>
+			<td bgcolor="#c0c0c0"><font color="black">Light Gray</font></td>
+			<td bgcolor="#c0c0c0">
+			<p align="center"><font color="black">C0C0C0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#a0a0a4"><font color="black">Серый нейтральный</font></td>
+			<td bgcolor="#a0a0a4"><font color="black">Medium Gray</font></td>
+			<td bgcolor="#a0a0a4">
+			<p align="center"><font color="black">A0A0A4</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#808080"><font color="white">Темно-серый</font></td>
+			<td bgcolor="#808080"><font color="white">Dark Gray</font></td>
+			<td bgcolor="#808080">
+			<p align="center"><font color="white">808080</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#191970"><font color="white">Полуночно-синий</font></td>
+			<td bgcolor="#191970"><font color="white">Midnight Blue</font></td>
+			<td bgcolor="#191970">
+			<p align="center"><font color="white">191970</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#000080"><font color="white">Темно-синий</font></td>
+			<td bgcolor="#000080"><font color="white">Navy (*), Dark Blue</font></td>
+			<td bgcolor="#000080">
+			<p align="center"><font color="white">000080</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#6495ed"><font color="white">Васильковый</font></td>
+			<td bgcolor="#6495ed"><font color="white">Cornflower</font></td>
+			<td bgcolor="#6495ed">
+			<p align="center"><font color="white">6495ED</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#6a5acd"><font color="white">Грифельно-синий</font></td>
+			<td bgcolor="#6a5acd"><font color="white">Slate Blue</font></td>
+			<td bgcolor="#6a5acd">
+			<p align="center"><font color="white">6A5ACD</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#8470ff"><font color="white">Светлый грифельно-синий</font></td>
+			<td bgcolor="#8470ff"><font color="white">Light Slate Blue</font></td>
+			<td bgcolor="#8470ff">
+			<p align="center"><font color="white">8470FF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#4169e1"><font color="white">Голубой королевский</font></td>
+			<td bgcolor="#4169e1"><font color="white">Royal Blue</font></td>
+			<td bgcolor="#4169e1">
+			<p align="center"><font color="white">4169E1</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#0000ff"><font color="white">Синий</font></td>
+			<td bgcolor="#0000ff"><font color="white">Blue</font></td>
+			<td bgcolor="#0000ff">
+			<p align="center"><font color="white">0000FF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#87ceeb"><font color="black">Небесно-голубой</font></td>
+			<td bgcolor="#87ceeb"><font color="black">Sky Blue</font></td>
+			<td bgcolor="#87ceeb">
+			<p align="center"><font color="black">87CEEB</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#87cefa"><font color="black">Небесно-голубой светлый</font></td>
+			<td bgcolor="#87cefa"><font color="black">Light Sky Blue</font></td>
+			<td bgcolor="#87cefa">
+			<p align="center"><font color="black">87CEFA</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#4682b4"><font color="white">Синий со стальным оттенком</font></td>
+			<td bgcolor="#4682b4"><font color="white">Steel Blue</font></td>
+			<td bgcolor="#4682b4">
+			<p align="center"><font color="white">4682B4</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#b0c4de"><font color="black">Голубой со стальным оттенком</font></td>
+			<td bgcolor="#b0c4de"><font color="black">Light Steel Blue</font></td>
+			<td bgcolor="#b0c4de">
+			<p align="center"><font color="black">B0C4DE</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#a6caf0"><font color="black">Светло-синий</font></td>
+			<td bgcolor="#a6caf0"><font color="black">Light Blue</font></td>
+			<td bgcolor="#a6caf0">
+			<p align="center"><font color="black">A6CAF0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#b0e0e6"><font color="black">Синий с пороховым оттенком</font></td>
+			<td bgcolor="#b0e0e6"><font color="black">Powder Blue</font></td>
+			<td bgcolor="#b0e0e6">
+			<p align="center"><font color="black">B0E0E6</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#afeeee"><font color="black">Бледно-бирюзовый</font></td>
+			<td bgcolor="#afeeee"><font color="black">Pale Turquoise</font></td>
+			<td bgcolor="#afeeee">
+			<p align="center"><font color="black">AFEEEE</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#40e0d0"><font color="black">Бирюзовый</font></td>
+			<td bgcolor="#40e0d0"><font color="black">Turquoise</font></td>
+			<td bgcolor="#40e0d0">
+			<p align="center"><font color="black">40E0D0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#00ffff"><font color="black">Зеленовато-голубой</font></td>
+			<td bgcolor="#00ffff"><font color="black">Cyan (*)</font></td>
+			<td bgcolor="#00ffff">
+			<p align="center"><font color="black">00FFFF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#e0ffff"><font color="black">Светлый циан</font></td>
+			<td bgcolor="#e0ffff"><font color="black">Light Cyan</font></td>
+			<td bgcolor="#e0ffff">
+			<p align="center"><font color="black">E0FFFF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#008080"><font color="white">Темный циан</font></td>
+			<td bgcolor="#008080"><font color="white">Dark Cyan</font></td>
+			<td bgcolor="#008080">
+			<p align="center"><font color="white">008080</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#5f9ea0"><font color="white">Серо-синий</font></td>
+			<td bgcolor="#5f9ea0"><font color="white">Cadet Blue</font></td>
+			<td bgcolor="#5f9ea0">
+			<p align="center"><font color="white">5F9EA0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#7fffd4"><font color="black">Аквамарин</font></td>
+			<td bgcolor="#7fffd4"><font color="black">Aquamarine</font></td>
+			<td bgcolor="#7fffd4">
+			<p align="center"><font color="black">7FFFD4</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#54ff9f"><font color="black">Цвет морской волны</font></td>
+			<td bgcolor="#54ff9f"><font color="black">Seagreen</font></td>
+			<td bgcolor="#54ff9f">
+			<p align="center"><font color="black">54FF9F</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#20b2aa"><font color="white">Цвет морской волны, светлый</font></td>
+			<td bgcolor="#20b2aa"><font color="white">Light Seagreen</font></td>
+			<td bgcolor="#20b2aa">
+			<p align="center"><font color="white">20B2AA</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#98fb98"><font color="black">Бледно-зеленый</font></td>
+			<td bgcolor="#98fb98"><font color="black">Pale Green</font></td>
+			<td bgcolor="#98fb98">
+			<p align="center"><font color="black">98FB98</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#00ff7f"><font color="black">Весенне-зеленый</font></td>
+			<td bgcolor="#00ff7f"><font color="black">Spring Green</font></td>
+			<td bgcolor="#00ff7f">
+			<p align="center"><font color="black">00FF7F</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#7cfc00"><font color="black">Зеленая лужайка</font></td>
+			<td bgcolor="#7cfc00"><font color="black">Lawn Green</font></td>
+			<td bgcolor="#7cfc00">
+			<p align="center"><font color="black">7CFC00</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#00ff00"><font color="black">Зеленый</font></td>
+			<td bgcolor="#00ff00"><font color="black">Green (*)</font></td>
+			<td bgcolor="#00ff00">
+			<p align="center"><font color="black">00FF00</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#c0dcc0"><font color="black">Средне-зеленый</font></td>
+			<td bgcolor="#c0dcc0"><font color="black">Medium Green</font></td>
+			<td bgcolor="#c0dcc0">
+			<p align="center"><font color="black">C0DCC0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#008000"><font color="white">Темно-зеленый</font></td>
+			<td bgcolor="#008000"><font color="white">Dark Green</font></td>
+			<td bgcolor="#008000">
+			<p align="center"><font color="white">008000</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#7fff00"><font color="black">Зеленовато-желтый</font></td>
+			<td bgcolor="#7fff00"><font color="black">Chartreuse</font></td>
+			<td bgcolor="#7fff00">
+			<p align="center"><font color="black">7FFF00</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#adff2f"><font color="black">Зелено-желтый</font></td>
+			<td bgcolor="#adff2f"><font color="black">Green Yellow</font></td>
+			<td bgcolor="#adff2f">
+			<p align="center"><font color="black">ADFF2F</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#32cd32"><font color="black">Лимонно-зеленый</font></td>
+			<td bgcolor="#32cd32"><font color="black">Lime Green</font></td>
+			<td bgcolor="#32cd32">
+			<p align="center"><font color="black">32CD32</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#9acd32"><font color="black">Желто-зеленый</font></td>
+			<td bgcolor="#9acd32"><font color="black">Yellow Green</font></td>
+			<td bgcolor="#9acd32">
+			<p align="center"><font color="black">9ACD32</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#228b22"><font color="white">Зеленый лесной</font></td>
+			<td bgcolor="#228b22"><font color="white">Forest Green</font></td>
+			<td bgcolor="#228b22">
+			<p align="center"><font color="white">228B22</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f0e68c"><font color="black">Хаки</font></td>
+			<td bgcolor="#f0e68c"><font color="black">Forest Green</font></td>
+			<td bgcolor="#f0e68c">
+			<p align="center"><font color="black">F0E68C</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#eee8aa"><font color="black">Бледно-золотистый</font></td>
+			<td bgcolor="#eee8aa"><font color="black">Pale Goldenrod</font></td>
+			<td bgcolor="#eee8aa">
+			<p align="center"><font color="black">EEE8AA</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fafad2"><font color="black">Светло-желтый золотистый</font></td>
+			<td bgcolor="#fafad2"><font color="black">Light Goldenrod Yellow</font></td>
+			<td bgcolor="#fafad2">
+			<p align="center"><font color="black">FAFAD2</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffe0"><font color="black">Светло-желтый</font></td>
+			<td bgcolor="#ffffe0"><font color="black">Light Yellow</font></td>
+			<td bgcolor="#ffffe0">
+			<p align="center"><font color="black">FFFFE0</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffff00"><font color="black">Желтый</font></td>
+			<td bgcolor="#ffff00"><font color="black">Yellow (*)</font></td>
+			<td bgcolor="#ffff00">
+			<p align="center"><font color="black">FFFF00</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#808000"><font color="white">Темно-желтый</font></td>
+			<td bgcolor="#808000"><font color="white">Dark Yellow</font></td>
+			<td bgcolor="#808000">
+			<p align="center"><font color="white">808000</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffd700"><font color="black">Золотой</font></td>
+			<td bgcolor="#ffd700"><font color="black">Gold</font></td>
+			<td bgcolor="#ffd700">
+			<p align="center"><font color="black">FFD700</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffec8b"><font color="black">Светло-золотистый</font></td>
+			<td bgcolor="#ffec8b"><font color="black">Light Goldenrod</font></td>
+			<td bgcolor="#ffec8b">
+			<p align="center"><font color="black">FFEC8B</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#daa520"><font color="black">Золотистый</font></td>
+			<td bgcolor="#daa520"><font color="black">Goldenrod</font></td>
+			<td bgcolor="#daa520">
+			<p align="center"><font color="black">DAA520</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#deb887"><font color="black">Желтоватый</font></td>
+			<td bgcolor="#deb887"><font color="black">Burly Wood</font></td>
+			<td bgcolor="#deb887">
+			<p align="center"><font color="black">DEB887</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#bc8f8f"><font color="black">Розово-коричневый</font></td>
+			<td bgcolor="#bc8f8f"><font color="black">Rosy Brown</font></td>
+			<td bgcolor="#bc8f8f">
+			<p align="center"><font color="black">BC8F8F</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#8b4513"><font color="white">Кожано-коричневый</font></td>
+			<td bgcolor="#8b4513"><font color="white">Saddle Brown</font></td>
+			<td bgcolor="#8b4513">
+			<p align="center"><font color="white">8B4513</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#a0522d"><font color="white">Охра</font></td>
+			<td bgcolor="#a0522d"><font color="white">Sienna</font></td>
+			<td bgcolor="#a0522d">
+			<p align="center"><font color="white">A0522D</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f5f5dc"><font color="black">Бежевый</font></td>
+			<td bgcolor="#f5f5dc"><font color="black">Beige</font></td>
+			<td bgcolor="#f5f5dc">
+			<p align="center"><font color="black">F5F5DC</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f5deb3"><font color="black">Пшеничный</font></td>
+			<td bgcolor="#f5deb3"><font color="black">Wheat</font></td>
+			<td bgcolor="#f5deb3">
+			<p align="center"><font color="black">F5DEB3</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#d2b48c"><font color="black">Рыжевато-коричневый</font></td>
+			<td bgcolor="#d2b48c"><font color="black">Tan</font></td>
+			<td bgcolor="#d2b48c">
+			<p align="center"><font color="black">D2B48C</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#d2691e"><font color="white">Шоколадный</font></td>
+			<td bgcolor="#d2691e"><font color="white">Chocolate</font></td>
+			<td bgcolor="#d2691e">
+			<p align="center"><font color="white">D2691E</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#b22222"><font color="white">Кирпичный</font></td>
+			<td bgcolor="#b22222"><font color="white">Firebrick</font></td>
+			<td bgcolor="#b22222">
+			<p align="center"><font color="white">B22222</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#a52a2a"><font color="white">Коричневый</font></td>
+			<td bgcolor="#a52a2a"><font color="white">Brown</font></td>
+			<td bgcolor="#a52a2a">
+			<p align="center"><font color="white">A52A2A</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#fa8072"><font color="white">Сомон</font></td>
+			<td bgcolor="#fa8072"><font color="white">Salmon</font></td>
+			<td bgcolor="#fa8072">
+			<p align="center"><font color="white">FA8072</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffa07a"><font color="white">Светлый сомон</font></td>
+			<td bgcolor="#ffa07a"><font color="white">Light Salmon</font></td>
+			<td bgcolor="#ffa07a">
+			<p align="center"><font color="white">FFA07A</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffa500"><font color="white">Оранжевый</font></td>
+			<td bgcolor="#ffa500"><font color="white">Orange</font></td>
+			<td bgcolor="#ffa500">
+			<p align="center"><font color="white">FFA500</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ff7f50"><font color="white">Коралловый</font></td>
+			<td bgcolor="#ff7f50"><font color="white">Coral</font></td>
+			<td bgcolor="#ff7f50">
+			<p align="center"><font color="white">FF7F50</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f08080"><font color="white">Коралловый светлый</font></td>
+			<td bgcolor="#f08080"><font color="white">Light Coral</font></td>
+			<td bgcolor="#f08080">
+			<p align="center"><font color="white">F08080</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ff4500"><font color="white">Оранжево-красный</font></td>
+			<td bgcolor="#ff4500"><font color="white">Orange Red</font></td>
+			<td bgcolor="#ff4500">
+			<p align="center"><font color="white">FF4500</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ff0000"><font color="white">Красный</font></td>
+			<td bgcolor="#ff0000"><font color="white">Red (*)</font></td>
+			<td bgcolor="#ff0000">
+			<p align="center"><font color="white">FF0000</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#800000"><font color="white">Темно-красный</font></td>
+			<td bgcolor="#800000"><font color="white">Dark Red</font></td>
+			<td bgcolor="#800000">
+			<p align="center"><font color="white">800000</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ff69b4"><font color="white">Теплый розовый</font></td>
+			<td bgcolor="#ff69b4"><font color="white">Hot Pink</font></td>
+			<td bgcolor="#ff69b4">
+			<p align="center"><font color="white">FF69B4</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffc0cb"><font color="black">Розовый</font></td>
+			<td bgcolor="#ffc0cb"><font color="black">Pink</font></td>
+			<td bgcolor="#ffc0cb">
+			<p align="center"><font color="black">FFC0CB</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffb6c1"><font color="black">Светло-розовый</font></td>
+			<td bgcolor="#ffb6c1"><font color="black">Light Pink</font></td>
+			<td bgcolor="#ffb6c1">
+			<p align="center"><font color="black">FFB6C1</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#db7093"><font color="white">Красно-фиолетовый бледный</font></td>
+			<td bgcolor="#db7093"><font color="white">Pale Violet Red</font></td>
+			<td bgcolor="#db7093">
+			<p align="center"><font color="white">DB7093</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#b03060"><font color="white">Темно-бордовый</font></td>
+			<td bgcolor="#b03060"><font color="white">Maroon (*)</font></td>
+			<td bgcolor="#b03060">
+			<p align="center"><font color="white">B03060</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#d02090"><font color="white">Красно-фиолетовый</font></td>
+			<td bgcolor="#d02090"><font color="white">Violet Red</font></td>
+			<td bgcolor="#d02090">
+			<p align="center"><font color="white">D02090</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ff00ff"><font color="white">Фуксин</font></td>
+			<td bgcolor="#ff00ff"><font color="white">Magenta (*)</font></td>
+			<td bgcolor="#ff00ff">
+			<p align="center"><font color="white">FF00FF</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#800080"><font color="white">Фуксин темный</font></td>
+			<td bgcolor="#800080"><font color="white">Dark Magenta</font></td>
+			<td bgcolor="#800080">
+			<p align="center"><font color="white">800080</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ee82ee"><font color="black">Фиолетовый</font></td>
+			<td bgcolor="#ee82ee"><font color="black">Violet</font></td>
+			<td bgcolor="#ee82ee">
+			<p align="center"><font color="black">EE82EE</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#dda0dd"><font color="white">Темно-фиолетовый</font></td>
+			<td bgcolor="#dda0dd"><font color="white">Plum</font></td>
+			<td bgcolor="#dda0dd">
+			<p align="center"><font color="white">DDA0DD</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#da70d6"><font color="white">Орсель</font></td>
+			<td bgcolor="#da70d6"><font color="white">Orchid</font></td>
+			<td bgcolor="#da70d6">
+			<p align="center"><font color="white">DA70D6</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#8a2be2"><font color="white">Фиолетово-синий</font></td>
+			<td bgcolor="#8a2be2"><font color="white">Blue Violet</font></td>
+			<td bgcolor="#8a2be2">
+			<p align="center"><font color="white">8A2BE2</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#a020f0"><font color="white">Пурпурный</font></td>
+			<td bgcolor="#a020f0"><font color="white">Purple</font></td>
+			<td bgcolor="#a020f0">
+			<p align="center"><font color="white">A020F0</font></p>
+			</td>
+		</tr>
